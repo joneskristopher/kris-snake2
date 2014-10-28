@@ -6,3 +6,18 @@ body {
 #gamescrn {
     display: block;
 }
+
+#gameover {
+    position: absolute;
+    visibility: hidden;
+}
+
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    color: green;
+}
+
+h2 {
+    font-family: 'Covered By Your Grace', cursive;
+    color: white;
+}
